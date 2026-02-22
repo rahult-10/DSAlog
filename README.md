@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahult-10/DSAlog/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahult-10/DSAlog/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rahult-10/DSAlog/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rahult-10/DSAlog/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rahult-10/DSAlog/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
