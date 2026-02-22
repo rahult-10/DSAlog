@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/rahult-10/DSAlog/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
