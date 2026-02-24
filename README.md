@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rahult-10/DSAlog/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rahult-10/DSAlog/tree/master/1929-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/rahult-10/DSAlog/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
+| [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahult-10/DSAlog/tree/master/0004-median-of-two-sorted-arrays) |
+| [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahult-10/DSAlog/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
+| [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
