@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rahult-10/DSAlog/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rahult-10/DSAlog/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahult-10/DSAlog/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/rahult-10/DSAlog/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -97,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahult-10/DSAlog/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahult-10/DSAlog/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -120,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
