@@ -1,44 +1,28 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-         List<String> result = new ArrayList<>();
+        List<String> result = new ArrayList<>();
         
         if (digits == null || digits.length() == 0)
             return result;
         
         String[] phone = {
-            "",
-            "",
-            "abc",
-            "def",
-            "ghi",
-            "jkl",
-            "mno",
-            "pqrs",
-            "tuv",
-            "wxyz"  
+            "", "", "abc", "def", "ghi",
+            "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
         
-        combination(digits, 0, "", phone, result);
+        result.add("");
+        
+        for (char digit : digits.toCharArray()) {
+            List<String> temp = new ArrayList<>();
+            String letters = phone[digit - '0'];
+            for (String combination : result) {
+                for (char letter : letters.toCharArray()) {
+                    temp.add(combination + letter);
+                }
+            }
+            result = temp;
+        }
+        
         return result;
-    }
-    
-    private void combination(String digits, int index, 
-                            String current, String[] phone, 
-                            List<String> result) {
-                                
-        if (index == digits.length()) {
-            result.add(current);
-            return;
-        }
-        
-        String letters = phone[digits.charAt(index) - '0'];
-        
-        for (int i = 0; i < letters.length(); i++) {
-            combination(digits, 
-                       index + 1, 
-                       current + letters.charAt(i), 
-                       phone, 
-                       result);
-        }
     }
 }
