@@ -10,19 +10,24 @@ class Solution {
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
         
-        result.add("");
-        
-        for (char digit : digits.toCharArray()) {
-            List<String> temp = new ArrayList<>();
-            String letters = phone[digit - '0'];
-            for (String combination : result) {
-                for (char letter : letters.toCharArray()) {
-                    temp.add(combination + letter);
-                }
-            }
-            result = temp;
-        }
-        
+        revert(digits, 0, new StringBuilder(), phone, result);
         return result;
+    }
+    
+    private void revert(String digits, int index,
+                           StringBuilder current,
+                           String[] phone,
+                           List<String> result) {
+        
+        if (index == digits.length()) {
+            result.add(current.toString());
+            return;
+        }
+        String letters = phone[digits.charAt(index) - '0'];
+        for (char letter : letters.toCharArray()) {
+            current.append(letter);
+            revert(digits, index + 1, current, phone, result);
+            current.deleteCharAt(current.length() - 1);
+        }
     }
 }
