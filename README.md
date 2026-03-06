@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rahult-10/DSAlog/tree/master/0459-repeated-substring-pattern) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rahult-10/DSAlog/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahult-10/DSAlog/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
