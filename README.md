@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rahult-10/DSAlog/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahult-10/DSAlog/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
