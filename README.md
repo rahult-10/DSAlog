@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahult-10/DSAlog/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahult-10/DSAlog/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/rahult-10/DSAlog/tree/master/0459-repeated-substring-pattern) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rahult-10/DSAlog/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahult-10/DSAlog/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahult-10/DSAlog/tree/master/0424-longest-repeating-character-replacement) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Heap (Priority Queue)
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahult-10/DSAlog/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rahult-10/DSAlog/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
