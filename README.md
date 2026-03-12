@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rahult-10/DSAlog/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rahult-10/DSAlog/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahult-10/DSAlog/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahult-10/DSAlog/tree/master/3666-minimum-operations-to-equalize-binary-string) |
