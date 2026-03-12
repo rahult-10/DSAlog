@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rahult-10/DSAlog/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahult-10/DSAlog/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/rahult-10/DSAlog/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahult-10/DSAlog/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/rahult-10/DSAlog/tree/master/0459-repeated-substring-pattern) |
