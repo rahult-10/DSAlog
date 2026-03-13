@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/rahult-10/DSAlog/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rahult-10/DSAlog/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahult-10/DSAlog/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rahult-10/DSAlog/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahult-10/DSAlog/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Merge Sort
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |
 | ------- |
