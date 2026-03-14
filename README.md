@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rahult-10/DSAlog/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rahult-10/DSAlog/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/rahult-10/DSAlog/tree/master/0459-repeated-substring-pattern) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rahult-10/DSAlog/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rahult-10/DSAlog/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rahult-10/DSAlog/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rahult-10/DSAlog/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahult-10/DSAlog/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rahult-10/DSAlog/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Sliding Window
 |  |
 | ------- |
