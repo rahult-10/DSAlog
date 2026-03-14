@@ -1,31 +1,29 @@
 class Solution {
-
-    int k;
-    String result = "";
-    char[] chars = {'a', 'b', 'c'};
-
     public String getHappyString(int n, int k) {
-        this.k = k;
-        backtrack(n, "");
-        return result;
-    }
-
-    private void backtrack(int n, String s){
-        if(s.length() ==  n){
-            k--;
-            if(k == 0){
-                result = s;
-            }
-            return;
+        
+        int total = 3 * (1 << (n - 1));
+        if (k > total){
+            return "";
         }
-
-        for(char c  : chars){
-            if(s.length() == 0 || s.charAt(s.length()-1) != c){
-                backtrack(n, s+c);
-                if(k == 0){
-                    return;
+        StringBuilder result = new StringBuilder();
+        char[] chars = {'a', 'b', 'c'};
+        for (int i = 0; i < n; i++) {
+            for (char c : chars) {
+                if (i > 0 && result.charAt(i - 1) == c){
+                    continue;
+                }
+                int remaining = n - i - 1;
+                int count = 1 << remaining;
+                
+                if (k > count) {
+                    k -= count;
+                } else {
+                    result.append(c);
+                    break;
                 }
             }
         }
+
+        return result.toString();
     }
 }
