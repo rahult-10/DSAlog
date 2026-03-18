@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/rahult-10/DSAlog/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rahult-10/DSAlog/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rahult-10/DSAlog/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
+| [0905-sort-array-by-parity](https://github.com/rahult-10/DSAlog/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/rahult-10/DSAlog/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/rahult-10/DSAlog/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rahult-10/DSAlog/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Linked List
