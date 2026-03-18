@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/rahult-10/DSAlog/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rahult-10/DSAlog/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/rahult-10/DSAlog/tree/master/3666-minimum-operations-to-equalize-binary-string) |
