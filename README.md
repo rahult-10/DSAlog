@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rahult-10/DSAlog/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahult-10/DSAlog/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/rahult-10/DSAlog/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahult-10/DSAlog/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahult-10/DSAlog/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahult-10/DSAlog/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/rahult-10/DSAlog/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rahult-10/DSAlog/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahult-10/DSAlog/tree/master/0172-factorial-trailing-zeroes) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rahult-10/DSAlog/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rahult-10/DSAlog/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/rahult-10/DSAlog/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rahult-10/DSAlog/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
