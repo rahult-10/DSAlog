@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahult-10/DSAlog/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/rahult-10/DSAlog/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/rahult-10/DSAlog/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rahult-10/DSAlog/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/rahult-10/DSAlog/tree/master/0064-minimum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/rahult-10/DSAlog/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
