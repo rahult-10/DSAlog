@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rahult-10/DSAlog/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rahult-10/DSAlog/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahult-10/DSAlog/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rahult-10/DSAlog/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/rahult-10/DSAlog/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rahult-10/DSAlog/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/rahult-10/DSAlog/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rahult-10/DSAlog/tree/master/0152-maximum-product-subarray) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahult-10/DSAlog/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rahult-10/DSAlog/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/rahult-10/DSAlog/tree/master/0867-transpose-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rahult-10/DSAlog/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/rahult-10/DSAlog/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rahult-10/DSAlog/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rahult-10/DSAlog/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
