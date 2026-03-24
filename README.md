@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rahult-10/DSAlog/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rahult-10/DSAlog/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahult-10/DSAlog/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahult-10/DSAlog/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/rahult-10/DSAlog/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahult-10/DSAlog/tree/master/0152-maximum-product-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rahult-10/DSAlog/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rahult-10/DSAlog/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rahult-10/DSAlog/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rahult-10/DSAlog/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rahult-10/DSAlog/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/rahult-10/DSAlog/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rahult-10/DSAlog/tree/master/0922-sort-array-by-parity-ii) |
