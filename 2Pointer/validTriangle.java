@@ -42,6 +42,26 @@ public int validTriangle(int[] nums) {
     return count;
 }
 
+public int triangleNum(int[] nums) {
+    Arrays.sort(nums);
+    int n = nums.length;
+    int count = 0;
+    for(int i = 2; i < n; i++){
+        int left = 0;
+        int right = i-1;
+        while(left < right){
+            if(nums[left] + nums[right] > nums[i]){
+                count += (right - left);
+                right--;
+            }
+            else {
+                left++;
+            }
+        }
+    }
+    return count;
+}
+
 public void main(String[] args){
     int[] nums = {2,2,3,4};
     int res = triangleNumber(nums);
