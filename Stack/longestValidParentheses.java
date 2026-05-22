@@ -38,6 +38,29 @@ public int longestValidParentheses(String s) {
     return max;
 }
 
+public int longestValidParen(String s) {
+    int[] st = new int[s.length()+1];
+    int idx = -1;
+    int max = 0;
+    st[++idx] = -1;
+    for(int i = 0; i < s.length(); i++){
+        char ch = s.charAt(i);
+        if(ch == '('){
+            st[++idx] = i;
+        }
+        else {
+            idx--;
+            if(idx == -1){
+                st[++idx] = i;
+            }
+            else{
+                max = Math.max(max, i-st[idx]);
+            }
+        }
+    }
+    return max;
+}
+
 public void main(String[] args){
     String s = ")()())";
     int count = longestValidParentheses(s);
